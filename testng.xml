@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="E:/seleniumwebdriver/TestNG/src/test/java/org/deepak/day2/OrangeHrm.java"><classes><class name="org.deepak.day2.OrangeHrm"><methods><include name="openapp"/><include name="testLogo"/><include name="testlogin"/><include name="closeApp"/></methods></class></classes></test></suite>
